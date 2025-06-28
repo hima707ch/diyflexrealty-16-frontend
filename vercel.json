@@ -2,7 +2,7 @@
         "rewrites": [
             {
             "source": "/api/:path*",
-            "destination": "https://diyflexrealty-15-hima707chs-projects.vercel.app/api/:path*"
+            "destination": "https://diyflexrealty-16-hima707chs-projects.vercel.app/api/:path*"
             }
         ],
           "build": {
