@@ -14,7 +14,7 @@ const Features = () => {
             {
               id: 'Features_2',
               title: 'Property Search',
-              description: 'Advanced search tools to find exactly what you're looking for',
+              description: 'Advanced search tools to find exactly what you re looking for',
               image: images[2] || 'https://via.placeholder.com/300x200'
             },
             {
